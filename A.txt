@@ -1,3 +1,5 @@
 Hello I'm test file
+Hi!
+yes!
+oh!
 XXX
-
